@@ -405,10 +405,6 @@ PRODUCT_PACKAGES += \
     vndk-ext \
     vndk_package
 
-# Tethering
-PRODUCT_PACKAGES += \
-    TetheringConfigOverlay
-
 # Thermal
 PRODUCT_PACKAGES += \
     thermal.msm8937
