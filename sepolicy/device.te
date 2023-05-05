@@ -1,2 +1,2 @@
-type fingerprint_device, dev_type;
 type sf_device, dev_type;
+type lirc_device, dev_type;
